@@ -5,7 +5,7 @@
     text-align: center;
 }
 body{
-    background-color: rgb(77, 76, 76);
+    background-color: rgb(235, 212, 175);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -15,14 +15,26 @@ header{
     flex-direction: column;
     align-items: center;
 }
-
 img{
-    height: 60vh;
+    height: 65vh;
     width: auto;
     border-radius: 10px;
 }
-a, h1{
-    color: white;
+.zoom{
+    height: 5vh;
+}
+.yt{
+    background-color: white;
+    height: 5vh;
+}
+div{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-left: 5vw;
+}
+a{
+    color: black;
 }
 p, h4{
     font-size: 1.2rem;
