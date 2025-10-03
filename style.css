@@ -24,9 +24,12 @@ img{
 a, h1{
     color: white;
 }
-p{
-    font-size: 1.1rem;
+p, h4{
+    font-size: 1.2rem;
+}
+h3{
+    font-size: 1.4rem;
 }
 .inv{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
