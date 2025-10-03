@@ -19,8 +19,13 @@ header{
 img{
     height: 60vh;
     width: auto;
+    border-radius: 10px;
 }
 
 a, h1{
     color: white;
+}
+
+.inv{
+    font-size: 1.3rem;
 }
