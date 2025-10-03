@@ -17,6 +17,10 @@ header{
 }
 
 img{
-    height: 80vh;
+    height: 60vh;
     width: auto;
+}
+
+a, h1{
+    color: white;
 }
